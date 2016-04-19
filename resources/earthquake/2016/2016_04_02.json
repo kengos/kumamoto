@@ -1,0 +1,36 @@
+{
+  "created_at": "2016-04-20T00:38:14.6+09:00",
+  "size": 3,
+  "items": [
+    {
+      "id": 9901241,
+      "occured_at": "2016-04-02T07:27:33.7+09:00",
+      "name": "岩手県内陸南部",
+      "latitude": 39.501666666666665,
+      "longitude": 140.75055555555556,
+      "depth": "8km",
+      "magnitude": 3.0,
+      "japanese_scale": "1"
+    },
+    {
+      "id": 9901242,
+      "occured_at": "2016-04-02T14:27:16.3+09:00",
+      "name": "福島県沖",
+      "latitude": 37.384166666666665,
+      "longitude": 141.70083333333332,
+      "depth": "42km",
+      "magnitude": 3.8,
+      "japanese_scale": "1"
+    },
+    {
+      "id": 9901243,
+      "occured_at": "2016-04-02T15:12:04.5+09:00",
+      "name": "八丈島東方沖",
+      "latitude": 33.735,
+      "longitude": 140.4011111111111,
+      "depth": "51km",
+      "magnitude": 4.1,
+      "japanese_scale": "1"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "created_at": "2016-04-20T00:38:20.4+09:00",
+  "size": 3,
+  "items": [
+    {
+      "id": 9901244,
+      "occured_at": "2016-04-03T14:22:31.1+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.950833333333335,
+      "longitude": 130.88527777777776,
+      "depth": "10km",
+      "magnitude": 2.5,
+      "japanese_scale": "2"
+    },
+    {
+      "id": 9901245,
+      "occured_at": "2016-04-03T17:37:32.8+09:00",
+      "name": "山梨県中・西部",
+      "latitude": 35.25138888888889,
+      "longitude": 138.50055555555556,
+      "depth": "13km",
+      "magnitude": 2.1,
+      "japanese_scale": "1"
+    },
+    {
+      "id": 9901246,
+      "occured_at": "2016-04-03T19:48:24.2+09:00",
+      "name": "岩手県沖",
+      "latitude": 39.934999999999995,
+      "longitude": 142.41916666666665,
+      "depth": "37km",
+      "magnitude": 3.4,
+      "japanese_scale": "1"
+    }
+  ]
+}

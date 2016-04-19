@@ -1,0 +1,346 @@
+{
+  "created_at": "2016-04-20T00:39:55.6+09:00",
+  "size": 34,
+  "items": [
+    {
+      "id": 9901381,
+      "occured_at": "2016-04-15T00:03:46.4+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.7,
+      "longitude": 130.76833333333335,
+      "depth": "7km",
+      "magnitude": 6.4,
+      "japanese_scale": "6+"
+    },
+    {
+      "id": 9901382,
+      "occured_at": "2016-04-15T00:13:04.2+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.717222222222226,
+      "longitude": 130.7675,
+      "depth": "10km",
+      "magnitude": 3.9,
+      "japanese_scale": "3"
+    },
+    {
+      "id": 9901383,
+      "occured_at": "2016-04-15T00:20:19.7+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.68416666666666,
+      "longitude": 130.73527777777775,
+      "depth": "11km",
+      "magnitude": 3.9,
+      "japanese_scale": "3"
+    },
+    {
+      "id": 9901384,
+      "occured_at": "2016-04-15T00:25:38.8+09:00",
+      "name": "駿河湾南方沖",
+      "latitude": 34.16916666666666,
+      "longitude": 138.40027777777777,
+      "depth": "279km",
+      "magnitude": 4.8,
+      "japanese_scale": "2"
+    },
+    {
+      "id": 9901385,
+      "occured_at": "2016-04-15T00:34:17.1+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.68472222222222,
+      "longitude": 130.73555555555555,
+      "depth": "13km",
+      "magnitude": 4.5,
+      "japanese_scale": "4"
+    },
+    {
+      "id": 9901386,
+      "occured_at": "2016-04-15T00:47:22.2+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.68444444444444,
+      "longitude": 130.7336111111111,
+      "depth": "13km",
+      "magnitude": 3.1,
+      "japanese_scale": "3"
+    },
+    {
+      "id": 9901387,
+      "occured_at": "2016-04-15T00:50:31.4+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.73388888888889,
+      "longitude": 130.7513888888889,
+      "depth": "13km",
+      "magnitude": 4.2,
+      "japanese_scale": "4"
+    },
+    {
+      "id": 9901388,
+      "occured_at": "2016-04-15T00:53:01.5+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.76861111111111,
+      "longitude": 130.8,
+      "depth": "12km",
+      "magnitude": 3.9,
+      "japanese_scale": "4"
+    },
+    {
+      "id": 9901389,
+      "occured_at": "2016-04-15T01:04:41.1+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.76694444444444,
+      "longitude": 130.81722222222223,
+      "depth": "13km",
+      "magnitude": 3.9,
+      "japanese_scale": "3"
+    },
+    {
+      "id": 9901390,
+      "occured_at": "2016-04-15T01:21:10.4+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.666666666666664,
+      "longitude": 130.73388888888888,
+      "depth": "11km",
+      "magnitude": 3.8,
+      "japanese_scale": "3"
+    },
+    {
+      "id": 9901391,
+      "occured_at": "2016-04-15T01:53:01.4+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.7,
+      "longitude": 130.75027777777777,
+      "depth": "12km",
+      "magnitude": 4.8,
+      "japanese_scale": "5-"
+    },
+    {
+      "id": 9901392,
+      "occured_at": "2016-04-15T01:59:32.1+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.75194444444445,
+      "longitude": 130.8025,
+      "depth": "11km",
+      "magnitude": 3.6,
+      "japanese_scale": "3"
+    },
+    {
+      "id": 9901393,
+      "occured_at": "2016-04-15T02:14:35.6+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.70055555555556,
+      "longitude": 130.75083333333333,
+      "depth": "11km",
+      "magnitude": 4.2,
+      "japanese_scale": "3"
+    },
+    {
+      "id": 9901394,
+      "occured_at": "2016-04-15T03:29:18.2+09:00",
+      "name": "茨城県沖",
+      "latitude": 36.217222222222226,
+      "longitude": 141.78527777777776,
+      "depth": "55km",
+      "magnitude": 4.4,
+      "japanese_scale": "1"
+    },
+    {
+      "id": 9901395,
+      "occured_at": "2016-04-15T03:36:59.1+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.66722222222222,
+      "longitude": 130.73444444444442,
+      "depth": "11km",
+      "magnitude": 4.1,
+      "japanese_scale": "4"
+    },
+    {
+      "id": 9901396,
+      "occured_at": "2016-04-15T04:19:43.3+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.666666666666664,
+      "longitude": 130.75083333333333,
+      "depth": "3km",
+      "magnitude": 3.2,
+      "japanese_scale": "3"
+    },
+    {
+      "id": 9901397,
+      "occured_at": "2016-04-15T05:01:46.4+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.68583333333333,
+      "longitude": 130.75083333333333,
+      "depth": "10km",
+      "magnitude": 3.5,
+      "japanese_scale": "3"
+    },
+    {
+      "id": 9901398,
+      "occured_at": "2016-04-15T05:10:36.8+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.75194444444445,
+      "longitude": 130.80194444444444,
+      "depth": "10km",
+      "magnitude": 4.6,
+      "japanese_scale": "4"
+    },
+    {
+      "id": 9901399,
+      "occured_at": "2016-04-15T05:31:57.2+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.684999999999995,
+      "longitude": 130.73472222222222,
+      "depth": "11km",
+      "magnitude": 3.8,
+      "japanese_scale": "3"
+    },
+    {
+      "id": 9901400,
+      "occured_at": "2016-04-15T06:24:28.2+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.652499999999996,
+      "longitude": 130.75222222222223,
+      "depth": "5km",
+      "magnitude": 3.2,
+      "japanese_scale": "3"
+    },
+    {
+      "id": 9901401,
+      "occured_at": "2016-04-15T07:20:07.4+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.652499999999996,
+      "longitude": 130.71833333333333,
+      "depth": "12km",
+      "magnitude": 3.5,
+      "japanese_scale": "3"
+    },
+    {
+      "id": 9901402,
+      "occured_at": "2016-04-15T07:29:55.9+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.83361111111111,
+      "longitude": 130.8838888888889,
+      "depth": "12km",
+      "magnitude": 4.2,
+      "japanese_scale": "4"
+    },
+    {
+      "id": 9901403,
+      "occured_at": "2016-04-15T07:46:52.0+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.71888888888889,
+      "longitude": 130.78555555555556,
+      "depth": "11km",
+      "magnitude": 4.4,
+      "japanese_scale": "4"
+    },
+    {
+      "id": 9901404,
+      "occured_at": "2016-04-15T07:55:50.7+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.70194444444445,
+      "longitude": 130.7686111111111,
+      "depth": "10km",
+      "magnitude": 3.4,
+      "japanese_scale": "3"
+    },
+    {
+      "id": 9901405,
+      "occured_at": "2016-04-15T09:02:41.3+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.68555555555555,
+      "longitude": 130.73499999999999,
+      "depth": "13km",
+      "magnitude": 3.7,
+      "japanese_scale": "3"
+    },
+    {
+      "id": 9901406,
+      "occured_at": "2016-04-15T09:53:02.5+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.70111111111111,
+      "longitude": 130.75027777777777,
+      "depth": "13km",
+      "magnitude": 3.9,
+      "japanese_scale": "3"
+    },
+    {
+      "id": 9901407,
+      "occured_at": "2016-04-15T12:46:22.8+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.76888888888889,
+      "longitude": 130.83527777777778,
+      "depth": "14km",
+      "magnitude": 3.6,
+      "japanese_scale": "3"
+    },
+    {
+      "id": 9901408,
+      "occured_at": "2016-04-15T13:50:00.5+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.717222222222226,
+      "longitude": 130.75222222222223,
+      "depth": "12km",
+      "magnitude": 4.0,
+      "japanese_scale": "3"
+    },
+    {
+      "id": 9901409,
+      "occured_at": "2016-04-15T15:27:51.7+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.83444444444444,
+      "longitude": 130.86916666666667,
+      "depth": "12km",
+      "magnitude": 4.2,
+      "japanese_scale": "4"
+    },
+    {
+      "id": 9901410,
+      "occured_at": "2016-04-15T17:39:01.3+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.83444444444444,
+      "longitude": 130.88333333333333,
+      "depth": "12km",
+      "magnitude": 3.6,
+      "japanese_scale": "3"
+    },
+    {
+      "id": 9901411,
+      "occured_at": "2016-04-15T18:48:12.7+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.70166666666667,
+      "longitude": 130.75,
+      "depth": "13km",
+      "magnitude": 3.9,
+      "japanese_scale": "3"
+    },
+    {
+      "id": 9901412,
+      "occured_at": "2016-04-15T20:15:13.5+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.68555555555555,
+      "longitude": 130.73472222222222,
+      "depth": "12km",
+      "magnitude": 3.8,
+      "japanese_scale": "4"
+    },
+    {
+      "id": 9901413,
+      "occured_at": "2016-04-15T20:46:51.1+09:00",
+      "name": "神奈川県東部",
+      "latitude": 35.33444444444444,
+      "longitude": 139.3686111111111,
+      "depth": "36km",
+      "magnitude": 2.8,
+      "japanese_scale": "2"
+    },
+    {
+      "id": 9901414,
+      "occured_at": "2016-04-15T23:17:31.6+09:00",
+      "name": "熊本県熊本地方",
+      "latitude": 32.85138888888889,
+      "longitude": 130.86777777777777,
+      "depth": "7km",
+      "magnitude": 3.6,
+      "japanese_scale": "4"
+    }
+  ]
+}

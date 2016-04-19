@@ -1,0 +1,26 @@
+{
+  "created_at": "2016-04-20T00:38:26.1+09:00",
+  "size": 2,
+  "items": [
+    {
+      "id": 9901247,
+      "occured_at": "2016-04-04T12:00:55.8+09:00",
+      "name": "静岡県中部",
+      "latitude": 35.10194444444445,
+      "longitude": 138.16833333333332,
+      "depth": "13km",
+      "magnitude": 3.4,
+      "japanese_scale": "1"
+    },
+    {
+      "id": 9901248,
+      "occured_at": "2016-04-04T19:32:33.6+09:00",
+      "name": "岩手県沿岸北部",
+      "latitude": 39.852222222222224,
+      "longitude": 141.95194444444442,
+      "depth": "34km",
+      "magnitude": 4.4,
+      "japanese_scale": "3"
+    }
+  ]
+}

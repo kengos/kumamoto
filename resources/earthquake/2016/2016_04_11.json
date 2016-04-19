@@ -1,0 +1,46 @@
+{
+  "created_at": "2016-04-20T00:39:07.1+09:00",
+  "size": 4,
+  "items": [
+    {
+      "id": 9901268,
+      "occured_at": "2016-04-11T01:37:56.7+09:00",
+      "name": "茨城県北部",
+      "latitude": 36.80027777777777,
+      "longitude": 140.58416666666668,
+      "depth": "7km",
+      "magnitude": 3.4,
+      "japanese_scale": "2"
+    },
+    {
+      "id": 9901269,
+      "occured_at": "2016-04-11T02:09:58.0+09:00",
+      "name": "岐阜県飛騨地方",
+      "latitude": 36.051111111111105,
+      "longitude": 137.5513888888889,
+      "depth": "8km",
+      "magnitude": 2.6,
+      "japanese_scale": "1"
+    },
+    {
+      "id": 9901270,
+      "occured_at": "2016-04-11T04:40:57.6+09:00",
+      "name": "兵庫県南東部",
+      "latitude": 35.00055555555556,
+      "longitude": 134.98333333333332,
+      "depth": "11km",
+      "magnitude": 2.5,
+      "japanese_scale": "1"
+    },
+    {
+      "id": 9901271,
+      "occured_at": "2016-04-11T14:45:08.4+09:00",
+      "name": "台湾付近",
+      "latitude": 24.50027777777778,
+      "longitude": 122.11805555555554,
+      "depth": "69km",
+      "magnitude": 4.9,
+      "japanese_scale": "1"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "created_at": "2016-04-20T00:39:18.7+09:00",
+  "size": 3,
+  "items": [
+    {
+      "id": 9901275,
+      "occured_at": "2016-04-13T11:36:23.2+09:00",
+      "name": "茨城県南部",
+      "latitude": 36.01694444444444,
+      "longitude": 140.0686111111111,
+      "depth": "61km",
+      "magnitude": 3.2,
+      "japanese_scale": "1"
+    },
+    {
+      "id": 9901276,
+      "occured_at": "2016-04-13T13:46:37.1+09:00",
+      "name": "福島県沖",
+      "latitude": 37.085,
+      "longitude": 142.05222222222224,
+      "depth": "41km",
+      "magnitude": 4.7,
+      "japanese_scale": "1"
+    },
+    {
+      "id": 9901277,
+      "occured_at": "2016-04-13T18:53:01.5+09:00",
+      "name": "福岡県北西沖",
+      "latitude": 33.63444444444444,
+      "longitude": 130.2836111111111,
+      "depth": "12km",
+      "magnitude": 2.7,
+      "japanese_scale": "1"
+    }
+  ]
+}

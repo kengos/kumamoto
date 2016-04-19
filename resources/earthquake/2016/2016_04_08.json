@@ -1,0 +1,56 @@
+{
+  "created_at": "2016-04-20T00:38:49.7+09:00",
+  "size": 5,
+  "items": [
+    {
+      "id": 9901257,
+      "occured_at": "2016-04-08T00:07:04.7+09:00",
+      "name": "トカラ列島近海",
+      "latitude": 29.16916666666667,
+      "longitude": 129.13472222222222,
+      "depth": "11km",
+      "magnitude": 3.2,
+      "japanese_scale": "2"
+    },
+    {
+      "id": 9901258,
+      "occured_at": "2016-04-08T03:26:29.0+09:00",
+      "name": "福島県沖",
+      "latitude": 37.2175,
+      "longitude": 142.25055555555556,
+      "depth": "20km",
+      "magnitude": 4.0,
+      "japanese_scale": "1"
+    },
+    {
+      "id": 9901259,
+      "occured_at": "2016-04-08T09:46:48.2+09:00",
+      "name": "茨城県沖",
+      "latitude": 36.401111111111106,
+      "longitude": 141.10027777777776,
+      "depth": "45km",
+      "magnitude": 3.5,
+      "japanese_scale": "1"
+    },
+    {
+      "id": 9901260,
+      "occured_at": "2016-04-08T22:00:12.8+09:00",
+      "name": "宮城県沖",
+      "latitude": 38.384166666666665,
+      "longitude": 141.90083333333334,
+      "depth": "16km",
+      "magnitude": 4.0,
+      "japanese_scale": "1"
+    },
+    {
+      "id": 9901261,
+      "occured_at": "2016-04-08T22:24:37.6+09:00",
+      "name": "茨城県沖",
+      "latitude": 36.401111111111106,
+      "longitude": 140.91694444444443,
+      "depth": "43km",
+      "magnitude": 3.7,
+      "japanese_scale": "1"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "created_at": "2016-04-20T00:38:31.9+09:00",
+  "size": 4,
+  "items": [
+    {
+      "id": 9901249,
+      "occured_at": "2016-04-05T11:05:12.6+09:00",
+      "name": "伊豆大島近海",
+      "latitude": 34.73416666666667,
+      "longitude": 139.285,
+      "depth": "5km",
+      "magnitude": 2.3,
+      "japanese_scale": "1"
+    },
+    {
+      "id": 9901250,
+      "occured_at": "2016-04-05T12:54:54.0+09:00",
+      "name": "茨城県沖",
+      "latitude": 36.73416666666667,
+      "longitude": 141.23472222222222,
+      "depth": "32km",
+      "magnitude": 3.6,
+      "japanese_scale": "1"
+    },
+    {
+      "id": 9901251,
+      "occured_at": "2016-04-05T14:25:04.0+09:00",
+      "name": "福島県沖",
+      "latitude": 37.2175,
+      "longitude": 141.26722222222224,
+      "depth": "29km",
+      "magnitude": 3.3,
+      "japanese_scale": "1"
+    },
+    {
+      "id": 9901252,
+      "occured_at": "2016-04-05T20:36:57.6+09:00",
+      "name": "岐阜県美濃中西部",
+      "latitude": 35.635555555555555,
+      "longitude": 136.5025,
+      "depth": "12km",
+      "magnitude": 2.5,
+      "japanese_scale": "1"
+    }
+  ]
+}
