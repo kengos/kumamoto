@@ -2,7 +2,7 @@
 
 Web scraping tools
 
-## Earchquake
+## Earthquake
 
 Scraping page: http://www.data.jma.go.jp/svd/eqdb/data/shindo/index.php
 
